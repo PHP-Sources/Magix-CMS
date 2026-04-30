@@ -2,30 +2,33 @@
 
 <img src="https://github.com/PHP-Sources/.github/raw/main/logos/magix-cms.webp" width="48" height="48" alt="Magix-CMS">
 
-**Magix-CMS 4** – Le CMS open source français moderne, flexible et orienté développeurs.
+**Magix-CMS 4.0.0-beta1** – Le CMS open source français moderne, flexible et orienté développeurs.
 
-### Points forts
-- Architecture MVC légère et performante
-- Système de templates puissant
-- Hautement personnalisable et extensible
-- SEO optimisé
-- Interface d’administration claire et moderne
-- Idéal pour les sites vitrines, blogs et projets sur mesure
+### Points forts de cette version
+- Nouvelle version majeure (v4) avec architecture modernisée
+- Très grande flexibilité et extensibilité
+- Interface d’administration améliorée
+- Support PHP 8.2+
+- Idéal pour créer des sites sur mesure, institutionnels ou e-commerce
+- Développement actif et communauté francophone
 
-### 📥 Accès rapide aux fichiers
+### 📥 Dernière version du script
 
 **Explorez rapidement les fichiers via notre explorateur :**
 
-👉 **[📂 Explorer Magix-CMS 4](https://phpsources.net/x7g3p2.php?id=506&name=magixcms-4-main.zip)**
+👉 **[📂 Explorer Magix-CMS 4.0.0-beta1](https://phpsources.net/x7g3p2.php?id=506&name=magixcms-4-4.0.0beta1.zip)**
 
 **Et retrouvez la fiche complète, les mises à jour, le support et le téléchargement sur :**  
-👉 **[Magix-CMS sur phpsources.net](https://phpsources.net/script/php/cms/506-17_magix-cms,4)**
+👉 **[Magix-CMS sur phpsources.net](https://phpsources.net/script/php/cms/506-18_magix-cms,4.0.0-bete1)**
+
+### 📜 Anciennes versions
+- **Magix-CMS 4.0.0** (ancienne beta) → [Fiche complète](https://phpsources.net/script/php/cms/506-17_magix-cms,4) | [Explorer les fichiers](https://phpsources.net/x7g3p2.php?id=506&name=magixcms-4-main.zip)
 
 ### Licence
-Distribué sous licence **MIT**.
+Distribué sous licence **GPL**.
 
 ### ⭐ Contribution
-Si ce CMS français vous aide, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
+Si Magix-CMS vous aide à créer vos projets, n’hésitez pas à mettre une **star** ⭐ et à le **forker** !
 
 ---
 
